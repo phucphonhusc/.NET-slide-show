@@ -1,0 +1,9 @@
+c:\users\fonee\documents\visual studio 2015\Projects\Slide_Imgae\Slide_Imgae\bin\Debug\Slide_Imgae.exe.config
+C:\Users\Fonee\Documents\Visual Studio 2015\Projects\Slide_Imgae\Slide_Imgae\bin\Debug\Slide_Imgae.exe
+C:\Users\Fonee\Documents\Visual Studio 2015\Projects\Slide_Imgae\Slide_Imgae\bin\Debug\Slide_Imgae.pdb
+C:\Users\Fonee\Documents\Visual Studio 2015\Projects\Slide_Imgae\Slide_Imgae\obj\Debug\Slide_Imgae.Form1.resources
+C:\Users\Fonee\Documents\Visual Studio 2015\Projects\Slide_Imgae\Slide_Imgae\obj\Debug\Slide_Imgae.Properties.Resources.resources
+C:\Users\Fonee\Documents\Visual Studio 2015\Projects\Slide_Imgae\Slide_Imgae\obj\Debug\Slide_Imgae.csproj.GenerateResource.Cache
+C:\Users\Fonee\Documents\Visual Studio 2015\Projects\Slide_Imgae\Slide_Imgae\obj\Debug\Slide_Imgae.exe
+C:\Users\Fonee\Documents\Visual Studio 2015\Projects\Slide_Imgae\Slide_Imgae\obj\Debug\Slide_Imgae.pdb
+C:\Users\Fonee\Documents\Visual Studio 2015\Projects\Slide_Imgae\Slide_Imgae\obj\Debug\Slide_Imgae.csprojResolveAssemblyReference.cache
